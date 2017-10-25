@@ -1,9 +1,5 @@
 # DeepLearning_Thesis
 
-studying the performance of deep neural nets on modeling neural encoding. 
+I investigated the performance of deep neural nets modeling neural encoding. The Jupyter notebook runs the appropriate models from the .py files; models created using TensorFlow and Keras. 
 
-Keras_FeedForward1: 3-layer feedforward neural net built using Keras
-
-CNN_1: convolutional network 
-
-RGC_Flicker: contains function to pre-process RGC data and extract training, validation, and test sets 
+Note: not the final version (I can send that upon request), but gives a flavor for the approach.
